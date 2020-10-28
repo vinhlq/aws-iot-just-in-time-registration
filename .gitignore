@@ -1,0 +1,9 @@
+.*
+!/.gitignore
+certs
+*.key
+*.crt
+*.cert
+*.pem
+*.pub
+git.sh
